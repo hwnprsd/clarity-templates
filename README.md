@@ -1,6 +1,7 @@
 # README
 
-(Learning (and clarity stacks) 
+```
+(Learning (and clarity stacks)
   (
     (let
       (Having a good time)
@@ -11,3 +12,4 @@
     )
   )
 )
+```
