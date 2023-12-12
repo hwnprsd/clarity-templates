@@ -1,5 +1,7 @@
 # README
 
+This is still a bit of work in progress. I will work on a UI for this application with my developers to showcase what is possible with Clairty & Stacks. It's just gonna take a couple of days more! I had to submit this since the deadline was today.
+
 ```
 (Learning (and clarity stacks)
   (
